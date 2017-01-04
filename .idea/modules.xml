@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleRankingHack.iml" filepath="$PROJECT_DIR$/GoogleRankingHack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NdkTestTwo/NdkTestTwo.iml" filepath="$PROJECT_DIR$/NdkTestTwo/NdkTestTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amigoGms/amigoGms.iml" filepath="$PROJECT_DIR$/amigoGms/amigoGms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkTargetOne/ndkTargetOne.iml" filepath="$PROJECT_DIR$/ndkTargetOne/ndkTargetOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndktest/ndktest.iml" filepath="$PROJECT_DIR$/ndktest/ndktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/substrateJava/substrateJava.iml" filepath="$PROJECT_DIR$/substrateJava/substrateJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testThree/testThree.iml" filepath="$PROJECT_DIR$/testThree/testThree.iml" />
+    </modules>
+  </component>
+</project>
