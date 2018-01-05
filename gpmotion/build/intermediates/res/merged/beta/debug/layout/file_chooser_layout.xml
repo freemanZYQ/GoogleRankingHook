@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fafafa"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/btn_pickrupdir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_file_pickerupdir" />
+
+        <TextView
+            android:id="@+id/confrim_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:ellipsize="end"
+            android:lines="1"
+            android:padding="16dp"
+            android:text="@android:string/ok"
+            android:textColor="@android:color/holo_blue_dark"
+            android:textSize="16sp" />
+
+        <net.luna.common.view.filepicker.widget.MarqueeTextView
+            android:id="@+id/file_path"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/confrim_btn"
+            android:layout_toRightOf="@id/btn_pickrupdir"
+            android:ellipsize="end"
+            android:gravity="start"
+            android:lines="1"
+            android:textColor="#424242"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/file_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#e0e0e0"
+        android:dividerHeight="1dp">
+
+    </ListView>
+
+</LinearLayout>

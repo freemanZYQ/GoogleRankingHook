@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private EditText mEdtInputCode;
 
     static {
-        System.loadLibrary("d56C9732651AC");
+        System.loadLibrary("dAF9E810CA063");
     }
 
     @Override
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 try {
                     byte[] inputs = FileUtils.readStreamToEnd(new FileInputStream(file));
                     Log.d("droidguard","inputs.length:"+inputs.length);
-                    droidGuardHelper.guardFromFile(this,"38bc5f6ef6639f1b","zhengyuqin128@gmail.com",inputs,"addAccount");
+                    droidGuardHelper.guardFromFile(this,"32c79147780473ff","freeman654987@gmail.com",inputs,"createAccount");
                 }catch (Exception e){
                     e.printStackTrace();
                 }

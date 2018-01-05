@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tools.hackandroid.google"
+    android:versionCode="5"
+    android:versionName="5" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+
+    <!-- <uses-permission android:name="android.permission.GET_ACCOUNTS"/> -->
+    <!-- <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/> -->
+    <!-- <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/> -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/blackandroid"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.tools.hackandroid.MainActivity"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 辅助功能 -->
+        <!-- <service -->
+        <!-- android:name=".accessibility.YAccessibilityDispatcher" -->
+        <!-- android:enabled="true" -->
+        <!-- android:exported="true" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.accessibilityservice.AccessibilityService" /> -->
+        <!-- </intent-filter> -->
+
+
+        <!-- &lt;!&ndash; 在meta-data里申明配置信息 &ndash;&gt; -->
+        <!-- <meta-data -->
+        <!-- android:name="android.accessibilityservice" -->
+        <!-- android:resource="@xml/y_accessibility_service" /> -->
+        <!-- </service> -->
+
+
+        <!-- <service -->
+        <!-- android:name=".gp.WebViewLoginService" -->
+        <!-- android:enabled="true"> -->
+        <!-- <intent-filter android:priority="1000"> -->
+        <!-- <action android:name="com.dbjtech.myservice" /> -->
+        <!-- </intent-filter> -->
+        <!-- </service> -->
+        <!-- xposed 配置 -->
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="设备参数模拟插件" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="28" />
+
+        <!-- 忘记是什么配置了　 -->
+        <meta-data
+            android:name="TA_APPKEY"
+            android:value="A13CARE48GHU" />
+        <meta-data
+            android:name="InstallChannel"
+            android:value="debug" />
+    </application>
+
+</manifest>

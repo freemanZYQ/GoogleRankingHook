@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/dialog_root_show_amin.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/dialog_root_hide_amin.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/dialog_main_hide_amination.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/progress_indeterminate_animation.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/snackbar_show_animation.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/snackbar_show_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/snackbar_hide_animation.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_fade_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/abc_fade_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/anim/dialog_main_show_amination.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/anim/dialog_main_show_amination.xml"
+    }
+]

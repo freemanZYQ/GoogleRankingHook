@@ -1,0 +1,68 @@
+apply plugin: 'com.android.application'
+
+android {
+    useLibrary 'org.apache.http.legacy'
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.tools.hackandroid.google"
+        minSdkVersion 14
+        targetSdkVersion 23
+//		versionCode Integer.parseInt(APP_VERSION_CODE)
+//		versionName APP_VERSION_NAME
+        versionCode 5
+        versionName "5"
+    }
+
+    buildTypes {
+        debug {
+//			debuggable true
+//			signingConfig signingConfigs.releaseConfig
+        }
+        release {
+            debuggable false
+
+
+            minifyEnabled true      // 开启混淆
+            shrinkResources true    // 去除无效的资源文件(依赖于minifyEnabled 为true)
+            zipAlignEnabled true    // Zipalign优化
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+        }
+    }
+    productFlavors {
+        beta {
+        }
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            if (output.outputFile != null && output.outputFile.name.endsWith('.apk')
+                    && 'debug'.equals(variant.buildType.name)) {
+                // 默认输出debug的app到原本的output目录
+                def path = output.outputFile.getParent();
+
+                // 如果有自定义自己的输出目录就采用这里的输出目录
+                def releasePath = rootProject.projectDir.getAbsolutePath() + "/release/debug";
+
+                def date = new Date().format('yyyy-MM-dd');
+
+                def apkFile = new File(releasePath,
+                        "YPrivacy_${variant.flavorName}_v${variant.versionName}_${date}.apk")
+                output.outputFile = apkFile
+            }
+        }
+    }
+}
+
+dependencies {
+//    compile fileTree(include: ['**.jar'], dir: 'libs')
+    compile files('libs/protobuf-java-2.6.1.jar')
+    compile 'be.shouldit:android-proxy-library:4.2.6'
+    // xposed 框架
+    provided 'de.robv.android.xposed:api:81'
+    provided 'de.robv.android.xposed:api:81:sources'
+    compile project(':AppCommonLibs1')
+
+}

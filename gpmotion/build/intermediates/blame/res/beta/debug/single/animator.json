@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_horizontal_tablet_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_horizontal_tablet_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotateup_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotateup_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_horizontal_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_horizontal_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_vertical_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_vertical_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_vertical_tablet_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_vertical_tablet_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_left_corner_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_left_corner_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/cube_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/cube_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/cube_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/cube_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_vertical_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_vertical_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_right_corner_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_right_corner_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_left_corner_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_left_corner_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_vertical_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_vertical_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/stack_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/stack_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_vertical_left_int.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_vertical_left_int.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_vertical_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_vertical_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_right_corner_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_right_corner_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotateup_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotateup_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/scalexy_exit.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/scalexy_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotatedown_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotatedown_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_horizontal_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_horizontal_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/cube_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/cube_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_horizontal_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_horizontal_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/scaley_exit.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/scaley_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_horizontal_tablet_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_horizontal_tablet_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_horizontal_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_horizontal_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_horizontal_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_horizontal_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/cube_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/cube_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotatedown_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotatedown_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_vertical_tablet_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_vertical_tablet_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotatedown_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotatedown_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_vertical_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_vertical_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/accordion_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/accordion_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/scalex_exit.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/scalex_exit.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/stack_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/stack_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/glide_fragment_horizontal_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/glide_fragment_horizontal_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_vertical_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_vertical_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_vertical_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_vertical_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotatedown_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotatedown_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_horizontal_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_horizontal_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/scalexy_enter.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/scalexy_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_vertical_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_vertical_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_right_corner_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_right_corner_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_horizontal_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_horizontal_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/stack_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/stack_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_vertical_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_vertical_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/stack_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/stack_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_horizontal_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_horizontal_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_horizontal_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_horizontal_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_horizontal_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_horizontal_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_vertical_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_vertical_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_right_corner_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_right_corner_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_vertical_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_vertical_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/glide_fragment_horizontal_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/glide_fragment_horizontal_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/card_flip_horizontal_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/card_flip_horizontal_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_horizontal_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_horizontal_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotateup_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotateup_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_slide_horizontal_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_slide_horizontal_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/rotateup_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/rotateup_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_vertical_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_vertical_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/scalex_enter.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/scalex_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/table_horizontal_left_int.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/table_horizontal_left_int.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_left_corner_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_left_corner_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_vertical_left_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_vertical_left_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/accordion_right_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/accordion_right_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/zoom_from_left_corner_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/zoom_from_left_corner_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/accordion_left_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/accordion_left_out.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/accordion_right_in.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/accordion_right_in.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/scaley_enter.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/scaley_enter.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/res/merged/beta/debug/animator/slide_fragment_out.xml",
+        "source": "/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/build/intermediates/exploded-aar/GoogleRankingHack/AppCommonLibs1/unspecified/res/animator/slide_fragment_out.xml"
+    }
+]

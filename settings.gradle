@@ -1,1 +1,1 @@
-include ':app', ':ndktest', ':NdkTestTwo', ':testThree', ':substrateJava', ':amigoGms', ':ndkTargetOne'
+include ':app', ':ndktest', ':NdkTestTwo', ':testThree', ':substrateJava', ':amigoGms', ':ndkTargetOne', ':AppCommonLibs1', ':gpmotion', ':myapplication'

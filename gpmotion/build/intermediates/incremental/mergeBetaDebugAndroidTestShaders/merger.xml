@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/src/androidTest/shaders"/></dataSet><dataSet config="beta"><source path="/Users/apple/AndroidStudioProjects/GoogleRankingHack/gpmotion/src/androidTestBeta/shaders"/></dataSet></merger>

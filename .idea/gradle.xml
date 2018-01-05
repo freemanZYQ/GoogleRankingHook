@@ -8,27 +8,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AppCommonLibs1" />
             <option value="$PROJECT_DIR$/NdkTestTwo" />
             <option value="$PROJECT_DIR$/amigoGms" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gpmotion" />
+            <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/ndkTargetOne" />
             <option value="$PROJECT_DIR$/ndktest" />
             <option value="$PROJECT_DIR$/substrateJava" />
             <option value="$PROJECT_DIR$/testThree" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/NdkTestTwo" />
-            <option value="$PROJECT_DIR$/amigoGms" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/ndkTargetOne" />
-            <option value="$PROJECT_DIR$/ndktest" />
-            <option value="$PROJECT_DIR$/substrateJava" />
-            <option value="$PROJECT_DIR$/testThree" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
